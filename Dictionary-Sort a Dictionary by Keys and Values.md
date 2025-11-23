@@ -1,5 +1,6 @@
 # 🔤 Dictionary-Python Program to Sort a Dictionary by Keys and Values
-
+Reg:212223050036
+Name: POOJA K G M
 This Python program demonstrates how to sort a dictionary:
 - Alphabetically by keys
 - Alphabetically by values
@@ -24,15 +25,3 @@ To write a Python program that sorts a dictionary's:
 4. **Sort by Values**:
    - Use `sorted(dictionary.items(), key=lambda item: item[1])`
    - Convert the result to a dictionary using `dict()`
-5. **Display** the original and sorted dictionaries.
-6. **End the program.**
-
----
-
-## 🧪Program
-Add Code here
-
-## Sample Output
-
-## Result
-
